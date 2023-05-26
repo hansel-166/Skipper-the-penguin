@@ -1,43 +1,6 @@
 # Skipper-the-penguin
 
-Robotic Modelling and Drone Skin Design
 
-#
-# **Table of Contents**
-
-[**Introduction** 1](#_Toc135976631)
-
-[**Penguin Project** 1](#_Toc135976632)
-
-[**Project Outline** 1](#_Toc135976633)
-
-[**MoSCoW** 1](#_Toc135976634)
-
-[**Technologies Available and Explored** 2](#_Toc135976635)
-
-[**Computer Aided Design (CAD) software package** 2](#_Toc135976636)
-
-[**3D scanning** 2](#_Toc135976637)
-
-[**Motion capture** 2](#_Toc135976638)
-
-[**Haptic input** 2](#_Toc135976639)
-
-[**3D printing** 3](#_Toc135976640)
-
-[**Conclusion** 3](#_Toc135976641)
-
-[**Design** 3](#_Toc135976642)
-
-[**Development** 4](#_Toc135976643)
-
-[**Conclusion and Reflection** 5](#_Toc135976644)
-
-[**References** 5](#_Toc135976645)
-
-[**Appendices** 6](#_Toc135976646)
-
-#
 # **Introduction**
 
 The aim of this project is to develop an exoskeletal, that has a working hinge and a skin of sorts which could be used for robotic applications. To carry out this aim various techniques, technologies, and research will be carried out. The project will also look at and analyse the transition from a virtual prototype to a physical prototype, documenting each phase and the designs created during the project.
@@ -128,7 +91,7 @@ The model has been designed in such a way that the different parts are separated
 ## **Development**
 
 In the development phase the version 2 skipper the penguin model was 3D printed, painted and assembled.
-
+![alt text](Images/Figure_1.jpeg)
 Figure 3 Shows the model in the 3D printer being printed. To print the model, fused deposition modelling (FDM) has been used, where melted plastic filament material is stacked layer by layer. Using FDM is more cost effective than additive manufacturing technology, and the result of the prints are very clean and accurate to the design. As can be seen in figure supports are added during the printing process, which snap off easily and cleanly.
 
 Figure 4 shows all the parts that were printed, as can be seen the various parts came out very well, all the parts are quite sturdy and very accurate and smooth print and there was no need for sanding.
