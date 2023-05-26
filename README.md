@@ -113,7 +113,7 @@ The penguin was designed in fusion 360 starting off with Version 1, which was la
 
 ### Figure-1
 ![Figure-1](Images/Figure-1.png)
-The stl file can be accessed using:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-1.stl)
+The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-1.stl)
 
 ## **Version 1**
 
@@ -127,9 +127,10 @@ However, looking at the model it was much easier, cheaper and effective to desig
 
 ### Figure-2         
 ![Figure-2](Images/Figure-2.png)
+The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-2.stl)
 ### Figure-2.5
 ![Figure-2.5](Images/Figure-2.5.png)
-
+The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Assembled-Version-2.stl)
 ## **Version 2**
 
 Version 2 changes the concept idea from Version 1 while also retaining some features, as can be seen in Figure 2. Version 2 has a more realistic character-based design, with a round curved body made using the revolve tool, and it also has been hollowed out to reduce the materials needed for printing process. The flippers have also been curved so it looks more like actual penguin flippers, as compared to a flat skeletal design from Version 1, they have also been hollowed out to make it light weight so it able to move with ease with just the help of a string. The orientation of the flippers has been changed from the Version 1 design, having the flippers not be connected to the trigger, but rather having a standalone trigger with a grove, that will move the flippers with the help of a string. The design has a thin shaft that sits in place around the penguin's shoulder area, which is used to connect the flipper on either side.
