@@ -113,6 +113,7 @@ The penguin was designed in fusion 360 starting off with Version 1, which was la
 
 ### Figure-1
 ![Figure-1](Images/Figure-1.png)
+The stl file can be accessed using:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-1.stl)
 
 ## **Version 1**
 
@@ -158,14 +159,18 @@ Figure 4 shows all the parts that were printed, as can be seen the designed mode
 Figure 5 Shows the printed parts assembled, the flippers were attached to the shaft with a pin so they are able to move with ease, however the shaft was a bit too broad to fit into the designed grove, however it was fixed fairly easily by scraping a bit of it until it fit perfectly. The feet were easily fit in the grove under the body very well without even the need of glue. The head also fits perfectly on the body without any need for additional sanding or scrapping.
 
 ### Figure-6         
-![Figure-6](Images/Figure-6.jpg)
-
-The next process was to paint the model with the appropriate colour inline to the Skipper character, which can be seen in Figure 6. The feet and the beak were painted yellow, the flippers and parts of head and body were painted black.
-
+![Figure-6](Images/Figure-6.jpeg)
+Front View
 ### Figure-7         
 ![Figure-7](Images/Figure-7.jpg)
+Side View
 
-In order to make the flippers move using the trigger a string was needed to be passed, however it wasn't fully understood how it would look like or work, thus no holes were created during the design process. Before the assembly a hole was created using a drill in the centre of both the flippers to pass the string through. A grove was also created on the hinge part of the flippers so the string would not slide off when pulled by the trigger. Figure 7 Shows the trigger connected to the flippers with the help of the string.
+The next process was to paint the model with the appropriate colour inline to the Skipper character, which can be seen in Figure 6 and Figure 7. The feet and the beak were painted yellow, the flippers and parts of head and body were painted black.
+
+### Figure-8         
+![Figure-8](Images/Figure-8.jpg)
+
+In order to make the flippers move using the trigger a string was needed to be passed, however it wasn't fully understood how it would look like or work, thus no holes were created during the design process. Before the assembly a hole was created using a drill in the centre of both the flippers to pass the string through. A grove was also created on the hinge part of the flippers so the string would not slide off when pulled by the trigger. Figure 8 Shows the trigger connected to the flippers with the help of the string.
 
 The following two giffs show the flippers in motion when the trigger is pulled. As can be seen the flippers move fairly easily and smoothly.
 ### Movement 1        
