@@ -114,7 +114,7 @@ The penguin was designed in fusion 360 starting off with Version 1, which was la
 ### Figure-1
 ![Figure-1](Images/Figure-1.png)
 
-The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-1.stl)
+The stl file can be accessed using the link: https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-1.stl
 
 ## **Version 1**
 
@@ -129,12 +129,12 @@ However, looking at the model it was much easier, cheaper and effective to desig
 ### Figure-2         
 ![Figure-2](Images/Figure-2.png)
 
-The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-2.stl)
+The stl file can be accessed using the link:https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Version-2.stl
 
 ### Figure-2.5
 ![Figure-2.5](Images/Figure-2.5.png)
 
-The stl file can be accessed using the link:(https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Assembled-Version-2.stl)
+The stl file can be accessed using the link: https://github.com/hansel-166/Skipper-the-penguin/blob/main/3D-Model/Assembled-Version-2.stl
 
 ## **Version 2**
 
@@ -212,3 +212,8 @@ Wikipedia. (2023) _'3D printing'_. Available at: [3D printing - Wikipedia](https
 
 #
 # **Appendices**
+3D stl models, Avaliable at: https://github.com/hansel-166/Skipper-the-penguin/tree/main/3D-Model
+
+Movement giffs, Avaliable at: https://github.com/hansel-166/Skipper-the-penguin/tree/main/GIFF 
+
+All the Images/Figures, Avaliable at: https://github.com/hansel-166/Skipper-the-penguin/tree/main/Images 
