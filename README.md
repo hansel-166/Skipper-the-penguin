@@ -111,6 +111,9 @@ There were various technologies made available for creation of the project, but 
 
 The penguin was designed in fusion 360 starting off with Version 1, which was later developed to Version 2.
 
+### Figure-1
+![Figure-1](Images/Figure-1.png)
+
 ## **Version 1**
 
 As can be seen in the Figure 1, Version 1 is more of a generic model of a penguin rather than the Skipper penguin character. The premise of the idea was to create a skeleton of a penguin of sorts, on which details would be added either using a haptic input pen or using clay or resin and making it look more like the character. The Version 1 was done freeform meaning no image basis was used for the design, and was created from without a reference, this means the model is not realistically proportioned with odd size parts.
@@ -120,6 +123,11 @@ The head was a simple cylinder with its edges and two spheres as eyes and a pyra
 As can be seen the Version 1 has a flat design for the flippers and feet, as well the body frame, the idea was to add cotton/wool and wrap it with a cloth to make a stuffed type of model.
 
 However, looking at the model it was much easier, cheaper and effective to design a more realistic Skipper character in Fusion 360 rather than using additional tools to achieve the same end result. Through the creation of Version 1, the Fusion 360 software was better explored and understood, allowing for a more knowledgeable use of the various tools during the creation of Version 2. Tools like, combine, split, loft and revolve were used in Version 2 because of the experience gained from the creation of Version 1.
+
+### Figure-2         
+![Figure-2](Images/Figure-2.png)
+### Figure-2.5
+![Figure-2.5](Images/Figure-2.5.png)
 
 ## **Version 2**
 
@@ -134,19 +142,36 @@ The design for Version 2 was a lot better than Version 1, as it looked a lot lik
 # **Development**
 
 In the development phase the Version 2 design of Skipper the penguin was 3D printed, painted and assembled. This allowed for the idea to take form and to determine problems and modification, which was not possible in the design phase with just the design.
+### Figure-3         
+![Figure-3](Images/Figure-3.jpeg)
 
 Figure 3 Shows the model in the 3D printer being printed. To print the model, fused deposition modelling (FDM) has been used, where melted plastic filament material is stacked layer by layer. Using FDM is more cost effective than additive manufacturing technology, and the result of the prints are very clean and accurate to the design. As can be seen in Figure supports are added during the printing process, which snap off easily and cleanly. Printing the 3D model cost £13 and took over 20 hours to be fully printed, which does not feel like very long considering how well the print came out.
 
+### Figure-4        
+![Figure-4](Images/Figure-4.jpeg)
+
 Figure 4 shows all the parts that were printed, as can be seen the designed model was printed to an astounding degree of accuracy, even having small holes for the hinges. All the parts are quite sturdy, with the head and body having quite the heft to them. The model has very accurate and smooth print and thus, there was no need for sanding.
+
+### Figure-5         
+![Figure-5](Images/Figure-5.jpg)
 
 Figure 5 Shows the printed parts assembled, the flippers were attached to the shaft with a pin so they are able to move with ease, however the shaft was a bit too broad to fit into the designed grove, however it was fixed fairly easily by scraping a bit of it until it fit perfectly. The feet were easily fit in the grove under the body very well without even the need of glue. The head also fits perfectly on the body without any need for additional sanding or scrapping.
 
+### Figure-6         
+![Figure-6](Images/Figure-6.jpg)
+
 The next process was to paint the model with the appropriate colour inline to the Skipper character, which can be seen in Figure 6. The feet and the beak were painted yellow, the flippers and parts of head and body were painted black.
+
+### Figure-7         
+![Figure-7](Images/Figure-7.jpg)
 
 In order to make the flippers move using the trigger a string was needed to be passed, however it wasn't fully understood how it would look like or work, thus no holes were created during the design process. Before the assembly a hole was created using a drill in the centre of both the flippers to pass the string through. A grove was also created on the hinge part of the flippers so the string would not slide off when pulled by the trigger. Figure 7 Shows the trigger connected to the flippers with the help of the string.
 
-The following two gifs show the flippers in motion when the trigger is pulled. As can be seen the flippers move fairly easily and smoothly.
-
+The following two giffs show the flippers in motion when the trigger is pulled. As can be seen the flippers move fairly easily and smoothly.
+### Movement 1        
+![Movement-1](GIFF/Movement-1.gif)
+### Movement 2         
+![Movement-2](GIFF/Movement-2.gif)
 # **Conclusion and Reflection**
 
 The project overall has been fun and intuitive, creating Skipper the penguin from scratch and seeing it go through the various stages such as planning, choosing the appropriate technology to be used, designing the model, and finally producing the model and applying finishing touches(paint), has been a great learning experience.
