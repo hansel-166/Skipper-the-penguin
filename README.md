@@ -1,4 +1,4 @@
-# Skipper-the-penguin
+# Skipper The Penguin Project
 
 # **Contents**
 
