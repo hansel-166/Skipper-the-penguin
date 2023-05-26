@@ -91,7 +91,7 @@ The model has been designed in such a way that the different parts are separated
 ## **Development**
 
 In the development phase the version 2 skipper the penguin model was 3D printed, painted and assembled.
-![alt text](Images/Figure_1.jpeg)
+![alt text](3D-Model/Peng v12.stl)
 Figure 3 Shows the model in the 3D printer being printed. To print the model, fused deposition modelling (FDM) has been used, where melted plastic filament material is stacked layer by layer. Using FDM is more cost effective than additive manufacturing technology, and the result of the prints are very clean and accurate to the design. As can be seen in figure supports are added during the printing process, which snap off easily and cleanly.
 
 Figure 4 shows all the parts that were printed, as can be seen the various parts came out very well, all the parts are quite sturdy and very accurate and smooth print and there was no need for sanding.
